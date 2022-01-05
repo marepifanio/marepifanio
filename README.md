@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marepifanio
-- 👀 I’m interested in companies problems solve
+- 👀 I’m interested in OOP and Java programming
 - 🌱 I’m currently learning OOP/Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
